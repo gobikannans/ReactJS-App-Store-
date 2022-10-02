@@ -1,0 +1,18 @@
+.apps-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.app-img {
+  margin-top: 10px;
+  height: 70px;
+}
